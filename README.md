@@ -1,4 +1,4 @@
-# Population-Penetrance-Package
+# Population-Penetrance-Package (Under Contruction)
 Contains self made R package for the purpose of finding penetrance in the population for a disease
 
 Penetrance: The penetrance of a genetic disorder is measured by evaluating how often a particular phenotype occurs given a particular genotype or vice versa. [1]
