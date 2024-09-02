@@ -1,5 +1,5 @@
 # Population-Penetrance Package: PyPenetrance (Under Contruction)
-Contains self developed python package for the purpose of finding penetrance in the population for a disease
+Contains self developed python package for the purpose of finding penetrance in a targeted population cohort for a a specific disease.  
 
 Penetrance: The penetrance of a genetic disorder is measured by evaluating how often a particular phenotype occurs given a particular genotype or vice versa. [1]
 (Basic Concepts in Human Molecular Genetics, Christine M. Koellner MS, CGC, ... W. Edward HighsmithJr. PhD, in Molecular Pathology (Second Edition), 2018)
